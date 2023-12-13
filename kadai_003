@@ -9,3 +9,5 @@ result = np.dot(A, B)
 
 # Step3.の計算結果を表示するコードを記述する
 result
+# 行列の要素の最大値を求めるコードを記述する
+result.max()
